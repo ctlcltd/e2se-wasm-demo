@@ -10,14 +10,18 @@ This was built with Qt for WebAssembly.
 
 &nbsp;
 
-**e2 SAT Editor** is an Enigma 2 channel list editor, cross-platform (Windows, macOS, Linux) and free to use. It supports Enigma2, Lamedb 4, Lamedb 5 formats (2.4, 2.5), Enigma1 (2.3, 2.2) and Neutrino xml (api v1, v2, v3, v4).
+**e2 SAT Editor** is an Enigma 2 channel list editor, cross-platform (Windows, macOS, Linux) and free to use. It supports Enigma 2, Lamedb 2.4, 2.5, 2.3, 2.2, Enigma 1, and Neutrino, Zapit api-4, api-3, api-2, api-1.
 
 More informations about **e2-sat-editor** in the main repository: https://github.com/ctlcltd/e2-sat-editor.
 
 
 &nbsp;
 
-#### Note
+### Known issues
+
+- When open the demo for the first time the status bar is hidden (the window is not headless), <kbd>F5</kbd> reload the page to show the status bar properly.
+
+### Note
 
 - There are some limitations in the demo mode.
 - Recommended use of this software in desktop or tablet, sizes and features not optimized for mobile devices.
