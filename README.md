@@ -1,8 +1,8 @@
 ## e2se-wasm-demo
 
-Experiment demo of **e2 SAT Editor** software.
+Web demo of **e2 SAT Editor** software.
 
-This was built with Qt for WebAssembly.
+This demo was built with *Qt for WebAssembly*
 
 ## Run DEMO here
 
@@ -17,14 +17,11 @@ More informations about **e2-sat-editor** in the main repository: https://github
 
 &nbsp;
 
-### Known issues
-
-- When open the demo for the first time the status bar is hidden (the window is not headless), <kbd>F5</kbd> reload the page to show the status bar properly.
-
 ### Note
 
-- There are some limitations in the demo mode.
-- Recommended use of this software in desktop or tablet, sizes and features not optimized for mobile devices.
+- There are some limitations in demo mode
+- You cannot open and save files other than the demo ones included
+- Recommended use of this software in desktop or tablet, sizes and features not optimized for mobile devices
 
 ### License
 
