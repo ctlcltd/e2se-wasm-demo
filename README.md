@@ -4,7 +4,7 @@ Web demo of **e2 SAT Editor** software.
 
 This demo was built with *Qt for WebAssembly*
 
-## Run DEMO here
+## Run online DEMO here
 
 📡 https://ctlcltd.github.io/e2se-wasm-demo/
 
@@ -14,18 +14,19 @@ This demo was built with *Qt for WebAssembly*
 
 More informations about **e2-sat-editor** in the main repository: https://github.com/ctlcltd/e2-sat-editor.
 
+**Download this software from Releases page: https://github.com/ctlcltd/e2-sat-editor/releases**
+
 
 &nbsp;
 
 ### Note
 
-- There are some limitations in demo mode
+- This is the Web demo of the full software
+- There are some limitations in demo mode imposed by remote use
 - You cannot open and save files other than the demo ones included
-- Recommended use of this software in desktop or tablet, sizes and features not optimized for mobile devices
+- Recommended show this demo in a desktop browser, sizes and features not optimized for mobile devices
 
 ### License
 
-Source code licensed under the terms of the [MIT License](https://github.com/ctlcltd/e2se-wasm-demo/blob/main/LICENSE-MIT).
-
-It is also licensed under the terms of the [GNU GPLv3](https://github.com/ctlcltd/e2se-wasm-demo/blob/main/LICENSE-GPL-3.0-or-later).
+Source code licensed under the terms of the [GNU GPLv3](https://github.com/ctlcltd/e2se-wasm-demo/blob/main/LICENSE-GPL-3.0-only).
 
