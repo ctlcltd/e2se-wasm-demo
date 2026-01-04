@@ -26,7 +26,7 @@ More informations about **e2-sat-editor** in the main repository: https://github
 - You cannot open and save files other than the demo ones included
 - Recommended show this demo in a desktop browser, sizes and features not optimized for mobile devices
 
-### License
+## License
 
 Source code licensed under the terms of the [GNU GPLv3](https://github.com/ctlcltd/e2se-wasm-demo/blob/main/LICENSE-GPL-3.0-only).
 
