@@ -28,5 +28,7 @@ More informations about **e2-sat-editor** in the main repository: https://github
 
 ## License
 
-Source code licensed under the terms of the [GNU GPLv3](https://github.com/ctlcltd/e2se-wasm-demo/blob/main/LICENSE-GPL-3.0-only).
+Source code licensed under the terms of the [GNU GPLv3 License](https://github.com/ctlcltd/e2se-wasm-demo/blob/main/LICENSE-GPL-3.0-only).
+
+The software is published under the terms of the GNU GPLv3 License.
 

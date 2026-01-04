@@ -59,3 +59,4 @@ DejaVu Sans Mono | font | custom (DejaVu font license)
 
 For third party code used in Qt, refer to (Qt website): https://doc.qt.io/qt-6/licenses-used-in-qt.html
 
+
