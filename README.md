@@ -1,10 +1,10 @@
-## e2se-wasm-demo
+# e2se-wasm-demo
 
 Web demo of **e2 SAT Editor** software.
 
 This demo was built with *Qt for WebAssembly*
 
-## Run online DEMO here
+**Run online DEMO here:**
 
 📡 https://ctlcltd.github.io/e2se-wasm-demo/
 
@@ -16,14 +16,14 @@ More informations about **e2-sat-editor** in the main repository: https://github
 
 **Download this software from Releases page: https://github.com/ctlcltd/e2-sat-editor/releases**
 
-
 &nbsp;
 
-### Note
+## Note
 
-- This is the Web demo of the full software
-- There are some limitations in demo mode imposed by remote use
+- This is the full Web demo of the full software
+- There are some limitations in demo mode imposed by remote use (WebAssembly)
 - You cannot open and save files other than the demo ones included
+- Window dialogs may glitch, due to limitations, WASM is single threaded
 - Recommended show this demo in a desktop browser, sizes and features not optimized for mobile devices
 
 ## License
