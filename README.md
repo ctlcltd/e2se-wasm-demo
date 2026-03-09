@@ -6,7 +6,7 @@ This demo was built with *Qt for WebAssembly*
 
 &nbsp;
 
-📡 **Run online DEMO here:** https://ctlcltd.github.io/e2se-wasm-demo/
+📡 **Run online DEMO here: https://ctlcltd.github.io/e2se-wasm-demo/**
 
 &nbsp;
 
