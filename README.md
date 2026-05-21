@@ -23,6 +23,7 @@ More informations about **e2-sat-editor** in the main repository: https://github
 - This is the full Web demo of the full software
 - There are some limitations in demo mode imposed by remote use (WebAssembly)
 - You cannot open and save files other than the demo ones included
+- Software is displayed in english language, without translations
 - Window dialogs may glitch, due to limitations, WASM is single threaded
 - Recommended show this demo in a desktop browser, sizes and features not optimized for mobile devices
 
